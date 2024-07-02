@@ -1,2 +1,2 @@
-# stock-price-prediction
-Predicting stock prices for varying companies in python.
+# SP500-price-prediction
+Predicting S&P 500 closing price using Linear Regression in python.
